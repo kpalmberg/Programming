@@ -1,0 +1,7 @@
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\bin\Debug\IComparable Interface.exe.config
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\bin\Debug\IComparable Interface.exe
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\bin\Debug\IComparable Interface.pdb
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\obj\Debug\IComparable Interface.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\obj\Debug\IComparable Interface.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\obj\Debug\IComparable Interface.exe
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\IComparable Interface\IComparable Interface\obj\Debug\IComparable Interface.pdb

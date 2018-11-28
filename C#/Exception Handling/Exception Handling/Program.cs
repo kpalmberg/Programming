@@ -29,13 +29,13 @@ namespace Exception_Handling
             }
         }
 
-
         // In this function an exception occurs within the try AND finally blocks, and the try block exception is not handled
         public static void ExceptionTesting()
         {
             try
             {
                 Console.WriteLine("Line before TRY block exception"); //Line will execute since no exception has occured yet
+                //Foo();
                 throw new Exception("EXCEPTION THROWN: in TRY block..."); //This exception will be lost since it's not handled and an exception exists in the finally block
                 Console.WriteLine("Line after TRY block exception"); //Line will not execute since exception is thrown before it
             }
@@ -51,7 +51,11 @@ namespace Exception_Handling
             }
         }
 
-
-
+        static void Foo()
+        {
+            Console.WriteLine("Line before FOO method exception."); //Line executed
+            throw new Exception("EXCEPTION THROWN: in FOO method..."); //Exception thrown
+            Console.WriteLine("Line after FOO exception is thrown."); //Line after exception not executed
+        }
     }
 }

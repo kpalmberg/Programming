@@ -1,0 +1,7 @@
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\bin\Debug\Enumeration Interfaces.exe.config
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\bin\Debug\Enumeration Interfaces.exe
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\bin\Debug\Enumeration Interfaces.pdb
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\obj\Debug\Enumeration Interfaces.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\obj\Debug\Enumeration Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\obj\Debug\Enumeration Interfaces.exe
+C:\Users\kevin\Desktop\kpalmberg_REPOS\Programming\C#\Enumeration Interfaces\Enumeration Interfaces\obj\Debug\Enumeration Interfaces.pdb
